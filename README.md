@@ -1,6 +1,5 @@
 <h2 align="center"> Most Simple & Powefull Trade Bot (WINDOWS LINUX)</h2>
 
-
 ![PancakeSwap-Logo-Big](https://bitcoinexchangeguide.com/wp-content/uploads/2018/09/Cryptocurrencies-Banner2.jpg)
 
  

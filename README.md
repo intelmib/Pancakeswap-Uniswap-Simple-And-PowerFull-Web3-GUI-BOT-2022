@@ -17,7 +17,12 @@
 - Ability to automatically sell at a specific profit target
 
 
-  
+## ✨ DEMO
+
+
+![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/cryptoBot.gif?raw=true "GIF application")
+
+
 <H2> Functions </h2>
   
 
@@ -78,11 +83,6 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 4. Export Private Key
 
 
-
-## ✨ DEMO
-
-
-![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/cryptoBot.gif?raw=true "GIF application")
 
 
 

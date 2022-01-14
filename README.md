@@ -3,23 +3,34 @@
 
 ![PancakeSwap-Logo-Big](https://bitcoinexchangeguide.com/wp-content/uploads/2018/09/Cryptocurrencies-Banner2.jpg)
 <p align="center">
-  <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
+  <a href="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/releases">
     <img alt="GitHub all releases" src="https://img.shields.io/github/followers/SavannahCatToken?style=social">
   </a>
-  <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
+  <a href="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion?style=social">
   </a>
 
 
+  
+<H2> What Are Some Pros And Cons Of Owning A Sniper Bot? </h2>
 
-
-#### bot is developed based on awesome open source research by team with the help of amazing Ethereum community
-#### Web3  Sniper & Take Profit/StopLose bot written in python3, For WIN & LINUX
-#### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, and also keybinding for fair launches
+- While having a sniper bot is typically an advantageous feat. Sometimes it can work against you. Let’s look over the pros and cons of owning a sniper bot and how it can be ---advantageous to you, but sometimes detrimental as well.
+- Allows for much faster buys
+- Allows for much faster sells
+- Gives user upper hand in fair launches
+- Users enjoy much higher profits when sniping compared to traditional buying methods
+- Ability to modify gas parameters prior to transacting
+- Ability to purchase a coin as soon as liquidity is added, rather than waiting for a dev to announce that liquidity has been added (also known as frontrunning).
+- Ability to make multiple buys within seconds.
+- Ability to automatically sell at a specific profit target
 
   
   
-<H3> Functions </h3>
+ 
+
+  
+<H2> Functions </h2>
+  
 
 - Main coin/token: The token or coin you want to trade tokens for and with
   

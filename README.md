@@ -11,7 +11,7 @@
   </a>
 
 
-  
+ 
 <H2> What Are Some Pros And Cons Of Owning A Sniper Bot? </h2>
 
 - While having a sniper bot is typically an advantageous feat. Sometimes it can work against you. Let’s look over the pros and cons of owning a sniper bot and how it can be ---advantageous to you, but sometimes detrimental as well.
@@ -24,8 +24,6 @@
 - Ability to make multiple buys within seconds.
 - Ability to automatically sell at a specific profit target
 
-  
-  
  
 
   

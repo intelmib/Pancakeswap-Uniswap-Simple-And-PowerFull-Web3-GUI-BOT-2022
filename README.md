@@ -17,37 +17,41 @@
 #### Web3  Sniper & Take Profit/StopLose bot written in python3, For WIN & LINUX
 #### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, and also keybinding for fair launches
 
+  
+  
+<H3> Functions </h3>
 
-Functions
-Main coin/token: The token or coin you want to trade tokens for and with
+- Main coin/token: The token or coin you want to trade tokens for and with
+  
+- buy token after add liquidity
 
-Buy/Sell boundary: The amount of balance (calculated in $) that has to be present in (main-)tokens or coins has to be present in the wallet, to deduct whether the latest action was a buy or a sell. For instance: if the value is 100, your maincoin option BNB and have 120$ worth of BNB on your address, the bot will see the latest action as "sell".
+- Buy/Sell boundary: The amount of balance (calculated in $) that has to be present in (main-)tokens or coins has to be present in the wallet, to deduct whether the latest action was a buy or a sell. For instance: if the value is 100, your maincoin option BNB and have 120$ worth of BNB on your address, the bot will see the latest action as "sell".
 
-buy Token: Fill the token address of the token you want to Buy (such as 0x0000000000000000000000000000000000000000)
+- buy Token: Fill the token address of the token you want to Buy (such as 0x0000000000000000000000000000000000000000)
 
-Sell Token: Fill the token address of the token you want to Sell (such as 0x0000000000000000000000000000000000000000)
+- Sell Token: Fill the token address of the token you want to Sell (such as 0x0000000000000000000000000000000000000000)
 
-Presale Token: Fill the token address before add liquidity (such as 0x0000000000000000000000000000000000000000)
+- Presale Token: Fill the token address before add liquidity (such as 0x0000000000000000000000000000000000000000)
 
-Dec.: The amount of decimals the token operates with (18 is normal)
+- Dec.: The amount of decimals the token operates with (18 is normal)
 
-Sell($): The price you want the trader to sell the token for (0.01 = 1 dollar cent)
+- Sell($): The price you want the trader to sell the token for (0.01 = 1 dollar cent)
 
-Buy($): The price you want the trader to buy the token for (0.01 = 1 dollar cent)
+- Buy($): The price you want the trader to buy the token for (0.01 = 1 dollar cent)
 
-Activate and Trade with BNB: Toggle if you want to activate trading with your main-coin/token
+- Activate and Trade with BNB: Toggle if you want to activate trading with your main-coin/token
 
-Trade with BEP (Experimental!): Toggle if you want to trade the token with other BEP20 tokens of which this option is activated (see tokentokennumerator)
+- Trade with BEP (Experimental!): Toggle if you want to trade the token with other BEP20 tokens of which this option is activated (see tokentokennumerator)
 
-Stoploss: Toggle to activate stoploss (0.01 = 1 dollar cent)
+- Stoploss: Toggle to activate stoploss (0.01 = 1 dollar cent)
 
-Second(s) between checking price: Standard is 4 seconds. With a infura server with max 100.000tx/day 4 seconds is good for 2 activated token 24hr/day
+- Second(s) between checking price: Standard is 4 seconds. With a infura server with max 100.000tx/day 4 seconds is good for 2 activated token 24hr/day
 
-Seconds waiting between trades: depends on how fast transactions finalize Max slippage: The maximum slippage you want to allow while trading (0.03 = 3%) $ to keep in ETH after trade: The amount of ETH/main token you want to keep after each trade (excluding transaction fees) in terms of $. GWEI: The amount of gas you want to use for each trade (5 GWEI is fine)
+- Seconds waiting between trades: depends on how fast transactions finalize Max slippage: The maximum slippage you want to allow while trading (0.03 = 3%) $ to keep in ETH after trade: The amount of ETH/main token you want to keep after each trade (excluding transaction fees) in terms of $. GWEI: The amount of gas you want to use for each trade (5 GWEI is fine)
 
-Different deposit address: Use this if you want the swap output to go to a different ethereum address (without extra fees).
+- Different deposit address: Use this if you want the swap output to go to a different ethereum address (without extra fees).
 
-Tokentokennumerator (Experimental!): This value lets you trade ERC tokens with each other. The code to create the value is as followed:
+- Tokentokennumerator (Experimental!): This value lets you trade ERC tokens with each other. The code to create the value is as followed:
 
 
 

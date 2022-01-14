@@ -17,6 +17,15 @@
 - Ability to automatically sell at a specific profit target
 
 
+
+
+
+https://ibb.co/vwQ6PtB
+
+![alt text](https://ibb.co/vwQ6PtB?raw=true "GIF application")
+
+
+
 ## ✨ DEMO
 
 

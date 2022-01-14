@@ -4,10 +4,10 @@
 ![PancakeSwap-Logo-Big](https://bitcoinexchangeguide.com/wp-content/uploads/2018/09/Cryptocurrencies-Banner2.jpg)
 <p align="center">
   <a href="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/releases">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/followers/SavannahCatToken?style=social">
+    <img alt="GitHub all releases" src="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022?style=social">
   </a>
   <a href="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion?style=social">
+    <img alt="GitHub release (latest by date)" src="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022?style=social">
   </a>
 
 

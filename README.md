@@ -19,14 +19,9 @@
 
 
 
-
-https://ibb.co/vwQ6PtB
+## ✨ DEMO
 
 <a href="https://ibb.co/vwQ6PtB"><img src="https://i.ibb.co/ngnNcW0/2.png" alt="2" border="0"></a>
-
-
-
-## ✨ DEMO
 
 
 ![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/cryptoBot.gif?raw=true "GIF application")

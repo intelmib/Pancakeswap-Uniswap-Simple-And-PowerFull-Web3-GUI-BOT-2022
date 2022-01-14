@@ -1,6 +1,6 @@
 import web3 , json
 
-
+ 
 class TXN():
     def __init__(self, token_address, quantity):
         self.w3 = self.connect()

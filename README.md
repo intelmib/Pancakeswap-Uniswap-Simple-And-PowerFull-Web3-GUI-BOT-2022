@@ -16,8 +16,7 @@
 - Ability to make multiple buys within seconds.
 - Ability to automatically sell at a specific profit target
 
- 
-![alt text](https://bitdeal.s3.us-east-2.amazonaws.com/Cryptocurrency-Trading-Bot-Development-Services.png?raw=true "GIF application")
+
   
 <H2> Functions </h2>
   
@@ -77,11 +76,12 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 2. Click on three points at top-right corner
 3. Account details
 4. Export Private Key
-```
 
 
 
 ## ✨ DEMO
+
+
 ![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/gui-cryptoBot%20.gif?raw=true "GIF application")
 
 

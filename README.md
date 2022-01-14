@@ -215,15 +215,14 @@ Any reference to an investment's past or potential performance is not, and shoul
 MIT License
 
 
-
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
-ETH - 
+ETH - 0x9D6b263Fd88c577a68918fea5732566d0c7ea64c
 
-BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
+BNB - 0x9D6b263Fd88c577a68918fea5732566d0c7ea64c  
   
-Thank's to Empaticgame! spend: 0,8 BNB ❤️  
+Thank's ! ❤️  
 
 ## 📧 If you need some help contact me
 
-***support@assaempire.eu
+***jordanmai@Gmail.com

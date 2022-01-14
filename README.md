@@ -2,14 +2,6 @@
 
 
 ![PancakeSwap-Logo-Big](https://bitcoinexchangeguide.com/wp-content/uploads/2018/09/Cryptocurrencies-Banner2.jpg)
-<p align="center">
-  <a href="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/releases">
-    <img alt="GitHub all releases" src="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022?style=social">
-  </a>
-  <a href="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022">
-    <img alt="GitHub release (latest by date)" src="https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022?style=social">
-  </a>
-
 
  
 <H2> What Are Some Pros And Cons Of Owning A Sniper Bot? </h2>
@@ -25,7 +17,7 @@
 - Ability to automatically sell at a specific profit target
 
  
-
+![alt text](https://bitdeal.s3.us-east-2.amazonaws.com/Cryptocurrency-Trading-Bot-Development-Services.png?raw=true "GIF application")
   
 <H2> Functions </h2>
   
@@ -89,10 +81,8 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 
 
-## ✨ Screenshots
-
-
-
+## ✨ DEMO
+![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/gui-cryptoBot%20.gif?raw=true "GIF application")
 
 
 

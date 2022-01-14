@@ -82,7 +82,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 ## ✨ DEMO
 
 
-![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/gui-cryptoBot%20.gif?raw=true "GIF application")
+![alt text](https://github.com/GUUIBOT/Pancakeswap-Uniswap-Simple-And-PowerFull-GUI-BOT-2022/blob/main/gui-cryptoBot.gif?raw=true "GIF application")
 
 
 
